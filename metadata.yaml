@@ -1,0 +1,37 @@
+_repo: Representative-Men-Seven-Lectures_6312
+creator:
+  author:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, Waldo
+    - Emerson, R. Waldo (Ralph Waldo)
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcsh 'Shakespeare, William, 1564-1616'
+- !lcsh 'Montaigne, Michel de, 1533-1592'
+- !lcsh 'Biography'
+- !lcsh 'Swedenborg, Emanuel, 1688-1772'
+- !lcsh 'Plato'
+- !lcc 'PS'
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832'
+tableOfContents: Uses of great men -- Plato, or the philosopher -- Swedenborg, or
+  the mystic -- Montaigne, or the skeptic -- Shakespeare, or the poet -- Napoleon,
+  or the man of the world -- Goethe, or the writer.
+title: 'Representative Men: Seven Lectures'
+url: http://www.gutenberg.org/ebooks/6312
