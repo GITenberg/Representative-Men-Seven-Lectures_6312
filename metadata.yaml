@@ -1,4 +1,8 @@
 _repo: Representative-Men-Seven-Lectures_6312
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Emerson, Ralph Waldo
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1071
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6312#Representative-Men-Seven-Lectures
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
